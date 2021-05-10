@@ -32,5 +32,6 @@ private void Initialize()
         .When(it => it.LastName, DoThat) // but you get the idea.
         .When(it => it.EmailAddress, DoSomething) // the thing is,
         .When(it => it.PhysicalAddress, UpdateSomething); // I am too lazy atm.
+}
 
 ```
