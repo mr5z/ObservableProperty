@@ -1,5 +1,5 @@
 # Why this?
-[Switch case is bad](https://youtu.be/7EmboKQH8lM?t=4570)
+[Avoid switch statements](https://youtu.be/7EmboKQH8lM?t=4570)
 
 ## Don't
 ```c#
