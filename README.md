@@ -1,5 +1,5 @@
 # Why this?
-[Avoid switch statements](https://youtu.be/7EmboKQH8lM?t=4570)
+[Avoid switch statements](https://youtu.be/7EmboKQH8lM?t=4578)
 
 ## Don't
 ```c#
