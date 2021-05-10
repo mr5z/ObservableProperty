@@ -1,9 +1,8 @@
-## Why this?
+# Why this?
 [Switch case is bad](https://youtu.be/7EmboKQH8lM?t=4570)
 
+## Don't
 ```c#
-
-// Convert this
 public void override OnPropertyChanged([CallerMemberName]string? propertyName = null)
 {
     switch (propertyName)
@@ -23,8 +22,10 @@ public void override OnPropertyChanged([CallerMemberName]string? propertyName = 
         // ...
     }
 }
+```
 
-// To this
+## Do's
+```c#
 private void Initialize()
 {
     observablePropertyChanged.Observe(this)
