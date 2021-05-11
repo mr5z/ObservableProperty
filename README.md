@@ -1,3 +1,9 @@
+# Install
+
+| Package | NuGet Stable | Downloads |
+| ------- | ------------ | --------- |
+| [ObservableProperty](https://www.nuget.org/packages/ObservableProperty/) | [![ObservableProperty](https://img.shields.io/nuget/v/ObservableProperty.svg)](https://www.nuget.org/packages/ObservableProperty/) | [![ObservableProperty](https://img.shields.io/nuget/dt/ObservableProperty.svg)](https://www.nuget.org/packages/ObservableProperty/) |
+
 # Why this?
 [Avoid switch statements](https://youtu.be/7EmboKQH8lM?t=4578)
 
