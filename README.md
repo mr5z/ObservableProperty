@@ -30,7 +30,7 @@ public void override OnPropertyChanged([CallerMemberName]string? propertyName = 
 }
 ```
 
-## Do's
+## Do
 ```c#
 private void Initialize()
 {
