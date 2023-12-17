@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObservableProperty", "ObservableProperty.csproj", "{D10950C7-9DE3-4F68-AD3C-B1323D834274}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossUtility", "..\..\CrossUtility\src\CrossUtility.csproj", "{FEEC1C38-9D1B-4332-A6BB-7DA29A12889F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10950C7-9DE3-4F68-AD3C-B1323D834274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10950C7-9DE3-4F68-AD3C-B1323D834274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10950C7-9DE3-4F68-AD3C-B1323D834274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10950C7-9DE3-4F68-AD3C-B1323D834274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEC1C38-9D1B-4332-A6BB-7DA29A12889F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEC1C38-9D1B-4332-A6BB-7DA29A12889F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEC1C38-9D1B-4332-A6BB-7DA29A12889F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEC1C38-9D1B-4332-A6BB-7DA29A12889F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188B6895-2547-41A9-AD14-B8962F826804}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <Company>Nkraft</Company>
+    <Authors>Mark Laureta</Authors>
+    <Description>Convert INotifyPropertyChanged events to fluent syntax.</Description>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/mr5z/ObservableProperty</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mr5z/ObservableProperty</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CrossUtility\src\CrossUtility.csproj" />
+  </ItemGroup>
+
+</Project>
